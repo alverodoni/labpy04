@@ -5,7 +5,7 @@ Kelas : TI.24.A.5 <p>
 Mata Kuliah : Bahasa Pemrograman <p>
 # Menambahkan data ke dalam sebuah list:
 ## flowchart
-![gambar 2](gmb1.png)
+![gambar 1](gmb1.png)
 ### Alur Algoritma
 1. Start (Mulai):
 - Program dimulai.
@@ -27,7 +27,7 @@ Mata Kuliah : Bahasa Pemrograman <p>
 - Program selesai.
    
 ## Program python
-![gambar 4](gmb2.png)
+![gambar 2](gmb2.png)
 ## Hasil program
-![gambar 5](gmb3.png)
+![gambar 3](gmb3.png)
 
